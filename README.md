@@ -1,1 +1,1 @@
-# HexoBlogTalk
+# BlogTalk
